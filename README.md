@@ -1,0 +1,25 @@
+# MAA107 project trinomial basic model simulation by Yi Yao Tan, Ecole Polytechnique BX23
+
+## Functions:
+Prints out price matrix and then options matrix. 
+Then uses an optimized method to plot the basic trinomial tree and pricing
+
+## Running the program:
+1) Just put: "$ python3 trinomial.py "
+into your terminal and then key in the input variables
+
+2) Uncommment test inputs
+
+3) Key in the variables:
+initial price of stock
+Period of Time
+Risk free interest rate
+Volatility of stock
+Number of time steps
+Dividend yield
+Strike price
+
+## Note:
+to keep probability of staying the middle p_m we have to have the following condition: 
+dt < 2 * sigma^2/(r-q)^2
+
