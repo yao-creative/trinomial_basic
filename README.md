@@ -35,4 +35,4 @@ to keep probability of staying the middle p_m we have to have the following cond
 dt < 2 * sigma^2/(r-q)^2
 
 
->>>>>>> 82a70e2471f9c1ffb342228ff46fa794dc3f1f81
+
