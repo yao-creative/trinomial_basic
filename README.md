@@ -3,6 +3,13 @@
 Basic trinomial tree for pricing options
 =======
 # MAA107 project trinomial basic model simulation by Yi Yao Tan, Ecole Polytechnique BX23
+## Desciption
+Self-guided research project for the class mathematical modeling in the Bachelor Program.
+### trinomial.py
+One step derivation based on the probabilities and then plotted on matplotlib. Derivation is based on paper attached.
+
+### trinomial_old.py
+Using the online wikipedia formulas creates a multistep trinomial and plots using matplotlib
 
 ## Functions:
 Prints out price matrix and then options matrix. 
